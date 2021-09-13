@@ -5,7 +5,7 @@
 
 This repository contains the longitidinal experiment data named **ENTH**.
 
-| Age range | # Responses/participant | Duration |
+| # Participants (Sex) | Age range | # Responses/participant | Duration |
 |----------------------|-----------|-------------------------|----------|
 | 17 (10M, 7F) | 21 to 27 | 13 (min), 112(max) | 4 weeks |
 
