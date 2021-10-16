@@ -1,0 +1,18 @@
+user_id,yob,sex,height,weight,shoulder_circumference,years_here,used_weather,satisfaction_weather,sweating,enjoy_ourdoor,outdoor_hr_weekday,outdoor_hr_weekend,hsps,swls,extraversion,agreeableness,conscientiousness,emotional_stability,openness_to_experiences
+enth01,2000,Female,164,48,156,21,Yes,Slightly Dissatisfied,5,No,5,6,6.1,35,5.5,6.5,5,5,5.5
+enth02,1999,Male,180,94,116,22,Yes,Slightly Dissatisfied,5,Yes,6,4,5.8,27,7,6,4,6,6.5
+enth03,1998,Female,160,53,94,4,Yes,Slightly Satisfied,3,Yes,2,5,6.2,29,4.5,3.5,6,4.5,3.5
+enth04,1997,Male,178,69,52,24,Yes,Neither Satisfied nor Dissatisfied,5,Yes,4,6,6.1,21,5,6,5.5,4.5,4
+enth05,1999,Male,178,107,115,22,Yes,Extremely Dissatisfied,5,No,2,3,6.9,24,4.5,5,5.5,5.5,5
+enth07,1996,Male,191,95,118,24,Yes,Slightly Satisfied,3,Yes,2,2,5.8,19,4,5.5,5,4.5,4.5
+enth09,1994,Male,182,79,100,26,Yes,Moderately Satisfied,3,Yes,2,3,5.4,28,5.5,5.5,5.5,5.5,7
+enth10,1999,Male,175,64,100,22,Yes,Neither Satisfied nor Dissatisfied,5,Yes,8,10,3.8,23,7,5.5,6.5,4.5,7
+enth11,1998,Female,158,57,94,23,Yes,Slightly Dissatisfied,3,Yes,2,3,5.6,26,4.5,6,5,5.5,5
+enth13,2000,Male,184,97,120,21,Yes,Slightly Satisfied,4,Yes,2,3,5.7,19,4.5,5,4.5,4,5
+enth15,1998,Male,172,64.2,107,22,Yes,Slightly Dissatisfied,5,Yes,3,4,5.9,25,5,5,5.5,5,5.5
+enth16,2000,Female,168,56,91,21,Yes,Slightly Dissatisfied,4,No,1,2,5.6,24,4.5,4,6,5.5,4
+enth17,1998,Female,158,50,89,9,Yes,Moderately Dissatisfied,5,No,1,2,7.2,15,5.5,5,5,5,6.5
+enth20,1999,Male,181,57.5,99,21,Yes,Slightly Dissatisfied,3,No,4,7,4.3,14,4.5,5,4,5,5.5
+enth22,1998,Male,170,69,106,23,Yes,Slightly Dissatisfied,4,Yes,3,2,5.3,24,6,5,6,4.5,6
+enth25,1999,Female,158,64,94,12,Yes,Slightly Dissatisfied,4,No,3,2,5.8,21,5,4.5,4,4.5,6
+enth28,1998,Female,162,46,88,23,Yes,Moderately Satisfied,4,No,1,2,5.2,35,4,4.5,5,4.5,4.5
