@@ -12,6 +12,28 @@ This repository contains the longitidinal experiment data named **ENTH**.
 | 17 (10M, 7F) | 21 to 27 | 13 (min), 112(max) | 4 weeks |
 
 
+## Cite this dataset
+
+```
+@inproceedings{10.1145/3485730.3493693,
+author = {Quintana, Matias and Abdelrahman, Mahmoud and Frei, Mario and Tartarini, Federico and Miller, Clayton},
+title = {Longitudinal Personal Thermal Comfort Preference Data in the Wild},
+year = {2021},
+isbn = {9781450390972},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3485730.3493693},
+doi = {10.1145/3485730.3493693},
+abstract = {Thermal comfort affects the well-being, productivity, and overall satisfaction of building occupants. However, due to economical and practical limitations, the number of longitudinal studies that have been conducted is limited, and only a few of these studies have shared their data publicly. Longitudinal datasets collected indoors are a valuable resource to better understand how people perceive their environment. Moreover, they provide a more realistic scenario to those conducted in thermal chambers. Our objective was to share publicly a longitudinal dataset comprising data collected over a 4-week long experiment. A total of 17 participants completed thermal preferences surveys which accounted for a total of approximately 1400 unique responses across indoor and outdoor 17 spaces. For the whole duration of the study, we monitored environmental variables (e.g., temperature and relative humidity) throughout 3 buildings. Participants completed comfort surveys from the screen of their smartwatches using an open-source application named Cozie. Their indoor location was continuously monitored using a custom-designed smartphone application. Location data were used to time and spatially align environmental measurements to thermal preference responses provided by the participants. Background information of participants, such as physical characteristics and personality traits (satisfaction with life scale, highly sensitive person scale, the Big Five personality traits), was collected using an on-boarding survey administered at the beginning of the experiment. The dataset is available at https://zenodo.org/record/5502441#.YT7xyaARUTs.},
+booktitle = {Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems},
+pages = {556–559},
+numpages = {4},
+keywords = {Datasets, Thermal comfort, Longitudinal experiment, Smart buildings},
+location = {Coimbra, Portugal},
+series = {SenSys '21}
+}
+```
+
 ## Requirements
 
 To install requirements:
