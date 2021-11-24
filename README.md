@@ -34,6 +34,13 @@ series = {SenSys '21}
 }
 ```
 
+## Work using this dataset
+
+- [Abdelrahman, M. M., Chong, A., & Miller, C. (2021). Personal thermal comfort models using digital twins: Preference prediction with BIM-extracted spatial–temporal proximity data from Build2Vec. Building and Environment, 108532.
+](https://www.sciencedirect.com/science/article/abs/pii/S0360132321009240?dgcid=coauthor)
+- [Miller, C., Abdelrahman, M., Chong, A., Biljecki, F., Quintana, M., Frei, M., ... & Wong, D. (2021, November). The Internet-of-Buildings (IoB)—Digital twin convergence of wearable and IoT data with GIS/BIM. In Journal of Physics: Conference Series (Vol. 2042, No. 1, p. 012041). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/2042/1/012041/pdf)
+- [Sae-Zhang, P., Quintana, M., & Miller, C. (2020). Differences in thermal comfort state transitional time among comfort preference groups.](https://scholarbank.nus.edu.sg/handle/10635/189383)
+
 ## Requirements
 
 To install requirements:
